@@ -1,9 +1,1 @@
-[
-   {
-        "ID": "E2E4-PostRefresh-USER-STORY-231673",
-        "Process": "Post Refresh",
-        "Description": "Update E2E4 for Post Refresh",
-        "Status": "Not Started",
-        "DateTime": "2024-06-10 15:56:16"
-    }
-]
+[{"ID":"E2E4-PostRefresh-USER-STORY-231673","Process":"Post Refresh","Description":"Update E2E4 for Post Refresh","Status":"Not Started","DateTime":"2024-06-10 15:56:16"},{"ID":"UAT-06072024-USER-STORY-231676","Process":"PostRefresh","Description":"Please see story for details","Status":"Not Started","DateTime":"2024-06-10 16:47:29"}]
