@@ -72,6 +72,7 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": "Log_WF_Refresh_20240610-2137.json",
         "Description": "Sync WF with 6\/2 Backup . Check User Roles & Deploy R7 Work flow"
     },
     {
