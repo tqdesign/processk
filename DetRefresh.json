@@ -2,7 +2,7 @@
     {
         "ID": "E2E4-PostRefresh-USER-STORY-231673",
         "Component": "TxDOTCONNECT DB - Sync Scripts with Prod",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -12,12 +12,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Sync Scripts with Prod"
     },
     {
         "ID": "E2E4-PostRefresh-USER-STORY-231673",
         "Component": "TxDOTCONNECT DB - Run User Addition Scripts",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -27,12 +28,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Run User Addition Scripts"
     },
     {
         "ID": "E2E4-PostRefresh-USER-STORY-231673",
         "Component": "TxDOTCONNECT DB - Delete WF on DB Side",
-        "Status" : "Pending",        
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -42,12 +44,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Delete WF on DB Side"
     },
     {
         "ID": "E2E4-PostRefresh-USER-STORY-231673",
         "Component": "TxDOTCONNECT DB - WF Records deletetion",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -57,12 +60,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "WF Records deletetion"
     },
     {
         "ID": "E2E4-PostRefresh-USER-STORY-231673",
         "Component": "Workflow - Sync WF with 6\/2 Backup . Check User Roles & Deploy R7 Work flow",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -78,7 +82,7 @@
     {
         "ID": "E2E4-PostRefresh-USER-STORY-231673",
         "Component": "TxDOTCONNECT UI - Sync UI with Prod",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -88,12 +92,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Sync UI with Prod"
     },
     {
         "ID": "E2E4-PostRefresh-USER-STORY-231673",
         "Component": "TxDOTCONNECT BB\/FB - Sync BB\/FB with Prod and restart the service",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -103,12 +108,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Sync BB\/FB with Prod and restart the service"
     },
     {
         "ID": "E2E4-PostRefresh-USER-STORY-231673",
         "Component": "GIS - Sync GIS Services",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -118,12 +124,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Sync GIS Services"
     },
     {
         "ID": "E2E4-PostRefresh-USER-STORY-231673",
         "Component": "TxDOTCONNECT ESB - Sync ESB with Prod",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -133,12 +140,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Sync ESB with Prod"
     },
     {
         "ID": "E2E4-PostRefresh-USER-STORY-231673",
         "Component": "Jasper reports - Sync latest verion of reports",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -148,12 +156,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Sync latest verion of reports"
     },
     {
         "ID": "E2E4-PostRefresh-USER-STORY-231673",
         "Component": "QA - Run Smoke Test",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -163,12 +172,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Run Smoke Test"
     },
     {
         "ID": "E2E4-PostRefresh-USER-STORY-231673",
         "Component": "TxDOTCONNECT DB - Run User Addition Scripts",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -178,12 +188,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Run User Addition Scripts"
     },
     {
         "ID": "UAT-06072024-USER-STORY-231676",
         "Component": "TxDOTCONNECT DB - DB Refresh",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -193,12 +204,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "DB Refresh"
     },
     {
         "ID": "UAT-06072024-USER-STORY-231676",
         "Component": "DCIS Components - DB Refresh",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -208,12 +220,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "DB Refresh"
     },
     {
         "ID": "UAT-06072024-USER-STORY-231676",
         "Component": "TxDOTCONNECT DB - Sync Scripts with Prod",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -223,12 +236,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Sync Scripts with Prod"
     },
     {
         "ID": "UAT-06072024-USER-STORY-231676",
         "Component": "TxDOTCONNECT DB - Run User Addition Scripts",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -238,12 +252,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Run User Addition Scripts"
     },
     {
         "ID": "UAT-06072024-USER-STORY-231676",
         "Component": "TxDOTCONNECT DB - Delete WF on DB Side",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -253,12 +268,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Delete WF on DB Side"
     },
     {
         "ID": "UAT-06072024-USER-STORY-231676",
         "Component": "TxDOTCONNECT DB - WF Records deletetion",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -268,12 +284,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "WF Records deletetion"
     },
     {
         "ID": "UAT-06072024-USER-STORY-231676",
         "Component": "Workflow",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -283,12 +300,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Sync WF with 6\/2 Backup . Check User Roles & Deploy R7 Work flow"
     },
     {
         "ID": "UAT-06072024-USER-STORY-231676",
         "Component": "TxDOTCONNECT UI",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -298,12 +316,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Sync UI with Prod"
     },
     {
         "ID": "UAT-06072024-USER-STORY-231676",
         "Component": "TxDOTCONNECT BB\/FB",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -313,12 +332,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Sync BB\/FB with Prod and restart the service"
     },
     {
         "ID": "UAT-06072024-USER-STORY-231676",
         "Component": "GIS",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -328,12 +348,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Sync GIS Services"
     },
     {
         "ID": "UAT-06072024-USER-STORY-231676",
         "Component": "TxDOTCONNECT ESB",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -343,12 +364,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Sync ESB with Prod"
     },
     {
         "ID": "UAT-06072024-USER-STORY-231676",
         "Component": "Jasper reports - ",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -358,12 +380,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Sync latest verion of reports"
     },
     {
         "ID": "UAT-06072024-USER-STORY-231676",
         "Component": "N\/A - ",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -373,12 +396,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Run Smoke Test"
     },
     {
         "ID": "UAT-06072024-USER-STORY-231676",
         "Component": "TxDOTCONNECT DB",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -388,12 +412,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Run User Addition Scripts"
     },
     {
         "ID": "E2E-05292024-USER-STORY-231011",
         "Component": "TxDOTCONNECT DB - DB Refresh",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -403,12 +428,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "DB Refresh"
     },
     {
         "ID": "E2E-05292024-USER-STORY-231011",
         "Component": "DCIS Components - DB Refresh",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -418,12 +444,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "DB Refresh"
     },
     {
         "ID": "E2E-05292024-USER-STORY-231011",
         "Component": "TxDOTCONNECT DB - Sync Scripts with Prod",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -433,12 +460,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Sync Scripts with Prod"
     },
     {
         "ID": "E2E-05292024-USER-STORY-231011",
         "Component": "TxDOTCONNECT DB - Run User Addition Scripts",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -448,12 +476,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Run User Addition Scripts"
     },
     {
         "ID": "E2E-05292024-USER-STORY-231011",
         "Component": "TxDOTCONNECT DB - Delete WF on DB Side",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -463,12 +492,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Delete WF on DB Side"
     },
     {
         "ID": "E2E-05292024-USER-STORY-231011",
         "Component": "TxDOTCONNECT DB - WF Records deletetion",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -478,12 +508,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "WF Records deletetion"
     },
     {
         "ID": "E2E-05292024-USER-STORY-231011",
         "Component": "Workflow - Sync WF with 6\/2 Backup . Check User Roles & Deploy R7 Work flow",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -493,12 +524,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Sync WF with 6\/2 Backup . Check User Roles & Deploy R7 Work flow"
     },
     {
         "ID": "E2E-05292024-USER-STORY-231011",
         "Component": "TxDOTCONNECT UI - Sync UI with Prod",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -508,12 +540,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Sync UI with Prod"
     },
     {
         "ID": "E2E-05292024-USER-STORY-231011",
         "Component": "TxDOTCONNECT BB\/FB - Sync BB\/FB with Prod and restart the service",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -523,12 +556,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Sync BB\/FB with Prod and restart the service"
     },
     {
         "ID": "E2E-05292024-USER-STORY-231011",
         "Component": "GIS - Sync GIS Services",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -538,12 +572,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Sync GIS Services"
     },
     {
         "ID": "E2E-05292024-USER-STORY-231011",
         "Component": "TxDOTCONNECT ESB - Sync ESB with Prod",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -553,12 +588,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Sync ESB with Prod"
     },
     {
         "ID": "E2E-05292024-USER-STORY-231011",
         "Component": "Jasper reports - Sync latest verion of reports",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -568,12 +604,13 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Sync latest verion of reports"
     },
     {
         "ID": "E2E-05292024-USER-STORY-231011",
         "Component": "QA\/UAT - Run Smoke Test",
-        "Status" : "Pending",
+        "Status": "Pending",
         "Process": null,
         "Command": null,
         "UserID": null,
@@ -583,6 +620,7 @@
         "ErrorMessage": null,
         "SessionID": null,
         "Environment": null,
+        "LogFile": null,
         "Description": "Run Smoke Test"
     }
 ]
