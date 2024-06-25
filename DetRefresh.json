@@ -5291,5 +5291,16 @@
     "Command": "Stored Procedure Execution",
     "ErrorCode": 0,
     "ErrorMessage": "Stored procedure 'JbpmAmendAutoIncrement' executed successfully."
+  },
+  {
+    "SessionID": "INT-PostRefresh-User1",
+    "Environment": "poc",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 09:52:47",
+    "ProcessID": 23851,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "sudo systemctl stop poc-jboss-eap-rhel.service",
+    "ErrorCode": 0,
+    "ErrorMessage": ""
   }
 ]
