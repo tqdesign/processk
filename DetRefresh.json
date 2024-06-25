@@ -1936,5 +1936,16 @@
     "Command": "Check for process-k.end",
     "ErrorCode": 0,
     "ErrorMessage": "process-k.end found. Stopping Services and Exiting program."
+  },
+  {
+    "SessionID": "625243",
+    "Environment": "poc",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 06:36:13",
+    "ProcessID": 13479,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "sudo systemctl stop poc-jboss-eap-rhel.service",
+    "ErrorCode": 0,
+    "ErrorMessage": ""
   }
 ]
