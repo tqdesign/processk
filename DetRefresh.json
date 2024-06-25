@@ -3718,5 +3718,16 @@
     "Command": "CREATE DATABASE jbpm",
     "ErrorCode": 0,
     "ErrorMessage": "Database 'jbpm' has been successfully created."
+  },
+  {
+    "SessionID": "625248",
+    "Environment": "bbqa",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 07:13:06",
+    "ProcessID": 42602,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "sudo systemctl start bbqa-jboss-eap-rhel.service",
+    "ErrorCode": 0,
+    "ErrorMessage": ""
   }
 ]
