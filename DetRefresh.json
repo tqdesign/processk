@@ -2233,5 +2233,16 @@
     "Command": "mysql -u root -p[REDACTED] -e 'CALL jbpm.JbpmAmendAutoIncrementTQD()'",
     "ErrorCode": 0,
     "ErrorMessage": ""
+  },
+  {
+    "SessionID": "625244",
+    "Environment": "poc",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 06:39:45",
+    "ProcessID": 27556,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "Stored Procedure Execution",
+    "ErrorCode": 0,
+    "ErrorMessage": "Stored procedure 'JbpmAmendAutoIncrementTQD' executed successfully."
   }
 ]
