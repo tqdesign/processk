@@ -4895,5 +4895,16 @@
     "Command": "sudo systemctl stop poc-jboss-eap-rhel.service",
     "ErrorCode": 0,
     "ErrorMessage": "poc-jboss-eap-rhel.service is successfully stoped."
+  },
+  {
+    "SessionID": "INT-PostRefresh-User",
+    "Environment": "poc",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 08:10:20",
+    "ProcessID": 46259,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "sudo systemctl stop poc-user-sync-script.service",
+    "ErrorCode": 0,
+    "ErrorMessage": ""
   }
 ]
