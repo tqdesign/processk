@@ -4169,5 +4169,16 @@
     "Command": "sudo systemctl start bbqa-jboss-eap-rhel.service",
     "ErrorCode": 0,
     "ErrorMessage": ""
+  },
+  {
+    "SessionID": "625249",
+    "Environment": "bbqa",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 07:18:51",
+    "ProcessID": 60801,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "sudo systemctl is-active bbqa-jboss-eap-rhel.service",
+    "ErrorCode": 0,
+    "ErrorMessage": ""
   }
 ]
