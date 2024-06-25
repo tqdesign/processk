@@ -7370,5 +7370,16 @@
     "Command": "Refresh Process Started",
     "ErrorCode": 0,
     "ErrorMessage": "Starting refresh for environment: poc with database: jbpm"
+  },
+  {
+    "SessionID": "poc-PostRefresh-User8",
+    "Environment": "poc",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 11:31:58",
+    "ProcessID": 88608,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "sudo systemctl stop poc-jboss-eap-rhel.service",
+    "ErrorCode": 0,
+    "ErrorMessage": ""
   }
 ]
