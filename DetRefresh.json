@@ -6490,5 +6490,16 @@
     "Command": "sudo systemctl start poc-jboss-eap-rhel.service",
     "ErrorCode": 0,
     "ErrorMessage": "poc-jboss-eap-rhel.service is successfully started."
+  },
+  {
+    "SessionID": "poc-PostRefresh-User5",
+    "Environment": "poc",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 10:40:38",
+    "ProcessID": 111946,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "Stored Procedure Creation",
+    "ErrorCode": 0,
+    "ErrorMessage": "Stored procedure 'JbpmAmendAutoIncrement' is created in jbpm."
   }
 ]
