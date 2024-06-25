@@ -1210,5 +1210,16 @@
     "Command": "sudo systemctl stop poc-user-sync-script.service",
     "ErrorCode": 0,
     "ErrorMessage": "poc-user-sync-script.service is successfully stoped."
+  },
+  {
+    "SessionID": "625242",
+    "Environment": "poc",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 06:23:40",
+    "ProcessID": 96373,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "CREATE DATABASE jbpm",
+    "ErrorCode": 0,
+    "ErrorMessage": "Database 'jbpm' has been successfully created."
   }
 ]
