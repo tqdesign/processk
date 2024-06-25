@@ -2970,5 +2970,16 @@
     "Command": "sudo systemctl start bbqa-user-sync-script.service",
     "ErrorCode": 0,
     "ErrorMessage": ""
+  },
+  {
+    "SessionID": "625246",
+    "Environment": "bbqa",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 06:52:34",
+    "ProcessID": 76592,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "sudo systemctl is-active bbqa-user-sync-script.service",
+    "ErrorCode": 0,
+    "ErrorMessage": ""
   }
 ]
