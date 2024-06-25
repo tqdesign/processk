@@ -4620,5 +4620,16 @@
     "Command": "sudo systemctl is-active poc-user-sync-script.service",
     "ErrorCode": 0,
     "ErrorMessage": ""
+  },
+  {
+    "SessionID": "6252411",
+    "Environment": "poc",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 08:07:11",
+    "ProcessID": 34507,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "sudo systemctl stop poc-user-sync-script.service",
+    "ErrorCode": 0,
+    "ErrorMessage": "poc-user-sync-script.service is successfully stoped."
   }
 ]
