@@ -5753,5 +5753,16 @@
     "Command": "Environment Validation",
     "ErrorCode": 99,
     "ErrorMessage": "Invalid environment name: asdfjkladfsjkl. Valid environments are: poc, bbqa, bbqa2, aut, bbdev, bbdev2, devqa, dev2qa2, dev1qa1, dev3qa3, eve4qa4, devpqap, e2e, last, int, pos1, preprod, trn, uat."
+  },
+  {
+    "SessionID": "INT-PostRefresh-User3",
+    "Environment": "bbqa",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 10:09:21",
+    "ProcessID": 102640,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "Refresh Process Started",
+    "ErrorCode": 0,
+    "ErrorMessage": "Starting refresh for environment: bbqa"
   }
 ]
