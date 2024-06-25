@@ -1947,5 +1947,16 @@
     "Command": "sudo systemctl stop poc-jboss-eap-rhel.service",
     "ErrorCode": 0,
     "ErrorMessage": ""
+  },
+  {
+    "SessionID": "625243",
+    "Environment": "poc",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 06:36:14",
+    "ProcessID": 13479,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "sudo systemctl is-active poc-jboss-eap-rhel.service",
+    "ErrorCode": 0,
+    "ErrorMessage": ""
   }
 ]
