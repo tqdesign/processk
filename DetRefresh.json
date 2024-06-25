@@ -3091,5 +3091,16 @@
     "Command": "sudo systemctl stop bbqa-user-sync-script.service",
     "ErrorCode": 0,
     "ErrorMessage": "bbqa-user-sync-script.service is successfully stoped."
+  },
+  {
+    "SessionID": "625247",
+    "Environment": "bbqa",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 07:01:39",
+    "ProcessID": 127739,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "CREATE DATABASE jbpm",
+    "ErrorCode": 0,
+    "ErrorMessage": "Database 'jbpm' has been successfully created."
   }
 ]
