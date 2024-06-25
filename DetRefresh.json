@@ -7469,5 +7469,16 @@
     "Command": "sudo systemctl is-active poc-jboss-eap-rhel.service",
     "ErrorCode": 0,
     "ErrorMessage": ""
+  },
+  {
+    "SessionID": "poc-PostRefresh-User8",
+    "Environment": "poc",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 11:33:08",
+    "ProcessID": 88608,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "sudo systemctl start poc-jboss-eap-rhel.service",
+    "ErrorCode": 0,
+    "ErrorMessage": "poc-jboss-eap-rhel.service is successfully started."
   }
 ]
