@@ -4092,5 +4092,16 @@
     "Command": "Stored Procedure Execution",
     "ErrorCode": 1,
     "ErrorMessage": "mysql: [Warning] Using a password on the command line interface can be insecure.\nERROR 1146 (42S02) at line 1: Table 'jbpm.ProcessInstanceLog' doesn't exist"
+  },
+  {
+    "SessionID": "625249",
+    "Environment": "bbqa",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 07:17:47",
+    "ProcessID": 60801,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "sudo systemctl stop bbqa-jboss-eap-rhel.service",
+    "ErrorCode": 0,
+    "ErrorMessage": ""
   }
 ]
