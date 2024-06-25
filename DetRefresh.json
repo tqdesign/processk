@@ -2079,5 +2079,16 @@
     "Command": "Refresh Process Completed",
     "ErrorCode": 0,
     "ErrorMessage": "Refresh process completed successfully"
+  },
+  {
+    "SessionID": "625243",
+    "Environment": "poc",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 06:37:24",
+    "ProcessID": 13479,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "Refresh Process Ended",
+    "ErrorCode": 0,
+    "ErrorMessage": "Total elapsed time: 0:02:36.664860"
   }
 ]
