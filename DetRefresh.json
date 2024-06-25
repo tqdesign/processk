@@ -2849,5 +2849,16 @@
     "Command": "mysql -u root -p[REDACTED] -e 'CALL jbpm.JbpmAmendAutoIncrementTQD()'",
     "ErrorCode": 1,
     "ErrorMessage": "mysql: [Warning] Using a password on the command line interface can be insecure.\nERROR 1146 (42S02) at line 1: Table 'jbpm.ProcessInstanceLog' doesn't exist"
+  },
+  {
+    "SessionID": "625246",
+    "Environment": "bbqa",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 06:51:20",
+    "ProcessID": 76592,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "Stored Procedure Execution",
+    "ErrorCode": 1,
+    "ErrorMessage": "mysql: [Warning] Using a password on the command line interface can be insecure.\nERROR 1146 (42S02) at line 1: Table 'jbpm.ProcessInstanceLog' doesn't exist"
   }
 ]
