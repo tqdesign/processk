@@ -6622,5 +6622,16 @@
     "Command": "sudo systemctl start poc-user-sync-script.service",
     "ErrorCode": 0,
     "ErrorMessage": ""
+  },
+  {
+    "SessionID": "poc-PostRefresh-User5",
+    "Environment": "poc",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 10:41:59",
+    "ProcessID": 111946,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "sudo systemctl is-active poc-user-sync-script.service",
+    "ErrorCode": 0,
+    "ErrorMessage": ""
   }
 ]
