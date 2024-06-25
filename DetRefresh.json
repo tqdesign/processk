@@ -3322,5 +3322,16 @@
     "Command": "Refresh Process Ended",
     "ErrorCode": 0,
     "ErrorMessage": "Total elapsed time: 0:02:33.340076"
+  },
+  {
+    "SessionID": "625247",
+    "Environment": "bbqa",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 07:04:56",
+    "ProcessID": 11874,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "Refresh Process Started",
+    "ErrorCode": 0,
+    "ErrorMessage": "Starting refresh for environment: bbqa"
   }
 ]
