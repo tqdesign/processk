@@ -7359,5 +7359,16 @@
     "Command": "Database Selection",
     "ErrorCode": 0,
     "ErrorMessage": "Selected database: jbpm for environment: poc"
+  },
+  {
+    "SessionID": "poc-PostRefresh-User8",
+    "Environment": "poc",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 11:31:53",
+    "ProcessID": 88608,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "Refresh Process Started",
+    "ErrorCode": 0,
+    "ErrorMessage": "Starting refresh for environment: poc with database: jbpm"
   }
 ]
