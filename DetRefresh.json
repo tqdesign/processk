@@ -6952,5 +6952,16 @@
     "Command": "sudo systemctl start poc-jboss-eap-rhel.service",
     "ErrorCode": 0,
     "ErrorMessage": "poc-jboss-eap-rhel.service is successfully started."
+  },
+  {
+    "SessionID": "poc-PostRefresh-User6",
+    "Environment": "poc",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 11:27:25",
+    "ProcessID": 61057,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "sudo systemctl start poc-user-sync-script.service",
+    "ErrorCode": 0,
+    "ErrorMessage": ""
   }
 ]
