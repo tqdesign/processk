@@ -1287,5 +1287,16 @@
     "Command": "Stored Procedure Execution",
     "ErrorCode": 0,
     "ErrorMessage": "Stored procedure 'JbpmAmendAutoIncrementTQD' executed successfully."
+  },
+  {
+    "SessionID": "625242",
+    "Environment": "poc",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 06:24:44",
+    "ProcessID": 96373,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "Check for process-k.end",
+    "ErrorCode": 0,
+    "ErrorMessage": "process-k.end found. Stopping Services and Exiting program."
   }
 ]
