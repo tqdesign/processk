@@ -902,5 +902,16 @@
     "Command": "CREATE DATABASE jbpm",
     "ErrorCode": 0,
     "ErrorMessage": "Database 'jbpm' has been successfully created."
+  },
+  {
+    "SessionID": "625241",
+    "Environment": "poc",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 06:17:07",
+    "ProcessID": 63953,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "sudo systemctl start poc-jboss-eap-rhel.service",
+    "ErrorCode": 0,
+    "ErrorMessage": ""
   }
 ]
