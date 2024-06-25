@@ -1463,5 +1463,16 @@
     "Command": "Refresh Process Started",
     "ErrorCode": 0,
     "ErrorMessage": "Starting refresh for environment: poc"
+  },
+  {
+    "SessionID": "625242",
+    "Environment": "poc",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 06:30:14",
+    "ProcessID": 125017,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "sudo systemctl stop poc-jboss-eap-rhel.service",
+    "ErrorCode": 0,
+    "ErrorMessage": ""
   }
 ]
