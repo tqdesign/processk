@@ -5841,5 +5841,16 @@
     "Command": "CREATE DATABASE bbqa",
     "ErrorCode": 0,
     "ErrorMessage": "Database 'bbqa' has been successfully created."
+  },
+  {
+    "SessionID": "INT-PostRefresh-User3",
+    "Environment": "bbqa",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 10:10:31",
+    "ProcessID": 102640,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "sudo systemctl start bbqa-jboss-eap-rhel.service",
+    "ErrorCode": 0,
+    "ErrorMessage": ""
   }
 ]
