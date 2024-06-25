@@ -6072,5 +6072,16 @@
     "Command": "Refresh Process Started",
     "ErrorCode": 0,
     "ErrorMessage": "Starting refresh for environment: bbqa with database: bbqa"
+  },
+  {
+    "SessionID": "INT-PostRefresh-User4",
+    "Environment": "bbqa",
+    "Hostname": "txdot4svtpam01",
+    "DateTime": "2024-06-25 10:35:54",
+    "ProcessID": 97121,
+    "UserID": "tdam-c.app@dot.state.tx.us",
+    "Command": "sudo systemctl stop bbqa-jboss-eap-rhel.service",
+    "ErrorCode": 0,
+    "ErrorMessage": ""
   }
 ]
