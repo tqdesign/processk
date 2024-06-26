@@ -7986,5 +7986,16 @@
     "Command": "sudo systemctl start devp-user-sync-script.service",
     "ErrorCode": 0,
     "ErrorMessage": ""
+  },
+  {
+    "SessionID": "devp2",
+    "Environment": "devp",
+    "Hostname": "txdot4awktxcna2.dot.state.tx.us",
+    "DateTime": "2024-06-26 15:38:21",
+    "ProcessID": 15044,
+    "UserID": "eross-c@dot.state.tx.us",
+    "Command": "sudo systemctl is-active devp-user-sync-script.service",
+    "ErrorCode": 0,
+    "ErrorMessage": ""
   }
 ]
