@@ -7777,5 +7777,16 @@
     "Command": "sudo systemctl stop devp-user-sync-script.service",
     "ErrorCode": 0,
     "ErrorMessage": "devp-user-sync-script.service - stop was successful."
+  },
+  {
+    "SessionID": "devp2",
+    "Environment": "devp",
+    "Hostname": "txdot4awktxcna2.dot.state.tx.us",
+    "DateTime": "2024-06-26 15:36:13",
+    "ProcessID": 15044,
+    "UserID": "eross-c@dot.state.tx.us",
+    "Command": "CREATE DATABASE jbpmp",
+    "ErrorCode": 0,
+    "ErrorMessage": "Database 'jbpmp' has been successfully created."
   }
 ]
