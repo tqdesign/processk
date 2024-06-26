@@ -7689,5 +7689,16 @@
     "Command": "Refresh Process Ended",
     "ErrorCode": 0,
     "ErrorMessage": "Total elapsed time: 2 minutes 45 seconds"
+  },
+  {
+    "SessionID": "devp2",
+    "Environment": "devp",
+    "Hostname": "txdot4awktxcna2.dot.state.tx.us",
+    "DateTime": "2024-06-26 15:35:50",
+    "ProcessID": 15044,
+    "UserID": "eross-c@dot.state.tx.us",
+    "Command": "Database Selection",
+    "ErrorCode": 0,
+    "ErrorMessage": "Selected database: jbpmp for environment: devp"
   }
 ]
