@@ -7788,5 +7788,16 @@
     "Command": "CREATE DATABASE jbpmp",
     "ErrorCode": 0,
     "ErrorMessage": "Database 'jbpmp' has been successfully created."
+  },
+  {
+    "SessionID": "devp2",
+    "Environment": "devp",
+    "Hostname": "txdot4awktxcna2.dot.state.tx.us",
+    "DateTime": "2024-06-26 15:36:51",
+    "ProcessID": 15044,
+    "UserID": "eross-c@dot.state.tx.us",
+    "Command": "sudo systemctl start devp-jboss-eap-rhel.service",
+    "ErrorCode": 0,
+    "ErrorMessage": ""
   }
 ]
